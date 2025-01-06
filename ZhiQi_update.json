@@ -1,5 +1,22 @@
 {
-  "version": "1.0.1",
-  "description": "新增更新内容显示。\n^_^",
-  "update_url": "https://www.icloud.com/shortcuts/5644d7c845674a0dae70d5a5c47eb192"
+  "淘宝":"淘宝",
+  "tb.cn":"淘宝",
+  "京东":"京东",
+  "3.cn":"京东",
+  "拼多多":"拼多多",
+  "yangkeduo.com":"拼多多",
+  "抖音":"抖音",
+  "douyin.com":"抖音",
+  "百度网盘":"百度网盘",
+  "pan.baidu.com":"百度网盘",
+  "天翼云盘":"天翼云盘",
+  "cloud.189.cn":"天翼云盘",
+  "哔哩哔哩":"哔哩哔哩",
+  "bili2233.cn":"哔哩哔哩",
+  "小红书":"小红书",
+  "xhslink.com":"小红书",
+  "闲鱼":"闲鱼",
+  "version": "1.0.2",
+  "description": "1.新增更新内容显示；\n2.App识别规则由本地识别调整为联网识别。\n^_^",
+  "update_url": "https://www.icloud.com/shortcuts/cf1808de09624a8d98a82f47bf71b2ca"
 }
