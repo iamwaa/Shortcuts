@@ -17,7 +17,7 @@
   "bili2233.cn":"哔哩哔哩",
   "小红书":"小红书",
   "xhslink.com":"小红书",
-  "version": "1.0.2",
-  "description": "1.新增更新内容显示；\n2.App识别规则由本地识别调整为联网识别。（可能会影响打开App速度）\n^_^",
-  "update_url": "https://www.icloud.com/shortcuts/c615d081b3f847c7a07b87847f462506"
+  "version": "1.0.3",
+  "description": "1.0.1 > 新增更新内容显示；\n1.0.2 > App识别规则由本地识别调整为联网识别（可能会影响打开App速度）；\n1.0.3 > 更换镜像网站，有效加快识别速度。",
+  "update_url": "https://www.icloud.com/shortcuts/85f05efb13b443dab6fb5c2e1dea055b"
 }
