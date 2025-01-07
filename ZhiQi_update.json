@@ -21,5 +21,5 @@
   },
   "version": "1.0.5",
   "description": "1.0.5 > 调整识别规则路径，避免出现识别错误。\n1.0.4 > 增加 Sileo 商店跳转功能。\n1.0.3 > 更换镜像站点，大幅提升识别速度。\n1.0.2 > 识别规则从本地调整为联网，可能稍微影响 App 启动速度。\n1.0.1 > 新增更新内容展示功能。",
-  "update_url": "https://www.icloud.com/shortcuts/4c0f38b3ce1e4556b38a8e99c260f279"
+  "update_url": "https://www.icloud.com/shortcuts/3eebc522346a4224a96fd11fdafdf3c9"
 }
