@@ -23,6 +23,6 @@
   },
   "version": "1.1-1",
   "description": "1.1-1 > 修复含有空格的路径无法正常跳转 Filza 的问题。",
-  "update_url": "https://www.icloud.com/shortcuts/8ec4e87ff0f34770bb0fcc79fbe46300",
+  "update_url": "https://www.icloud.com/shortcuts/fef588e2a58f486bba5807d1ed616460",
   "history_description": "1.1-1 > 修复含有空格的路径无法正常跳转 Filza 的问题。\n1.1 > 新增服务连接失败提示功能，未来版本将主要针对应用程序的兼容性进行优化。\n1.0-8 > 1.重构快捷指令代码；2.新增「功能介绍」和「使用说明」。\n1.0-7 > 新增 Filza 路径跳转功能。\n1.0-6 > 新增自定义开关 App 识别功能，避免 iPhone 在未安装对应 App 时导致快捷指令卡在打开 App 的操作。\n使用说明：修改快捷指令中的《App识别开关》选项对应 App 的值进行控制。「Ture=开启 False=关闭」\n1.0-5 > 调整识别规则路径，避免出现识别错误。\n1.0-4 > 增加 Sileo 商店跳转功能。\n1.0-3 > 更换镜像站点，大幅提升识别速度。\n1.0-2 > 识别规则从本地调整为联网，可能稍微影响 App 启动速度。\n1.0-1 > 新增更新内容展示功能。\n1.0 > 启动！"  
 }
