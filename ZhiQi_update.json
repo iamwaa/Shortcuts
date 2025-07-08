@@ -23,6 +23,11 @@
     "美团":"美团",
     "团口令":"美团"
   },
+  "search":{
+    "百度搜索":"https://www.baidu.com/s?wd=",
+    "Google搜索":"https://www.google.com/search?q=",
+    "秘塔AI搜索":"https://metaso.cn/?q="
+  },
   "version": "1.8-1",
   "description": ">  1.8-1\n- 调整URL和文本搜索的识别方式\n\n>  1.8\n- 新增美团「团口令」识别功能\n- 新增查看智启历史更新记录\n- 其他功能优化",
   "update_url": "https://www.icloud.com/shortcuts/745ee65fd2b54de480905b8b6ccf93b0",
