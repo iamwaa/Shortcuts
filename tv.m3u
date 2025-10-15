@@ -1,2 +1,11 @@
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东珠江.png" group-title="频道",广东珠江
-https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=d5add2b1656ae20d09fc3952bbc2c31e-HMvXqISLWfPokuIcI0V2pgkfa8wWwuDa7EDVNc8JjvDOmPu7m1UGE0DVrspFwKf%2FNUjQuA9BkV30qqvM12aTTWU6Eipv6JjD4PpH%2BttLX6SQGGnUvzezGVoiQpXmxTNO9DFFlwiCyL9FygeNC1jAD%2BMa7zI%2B%2BDfSKSzDI25vSD2QgyqbCWaREVi6V09WaRnDifFxbpFWFm6cVoVD5rjrtRNLL%2B2VyLAREK3PNfk65yqm7%2Fa1JXdXSDDtwhW0LiSPZxsGejhiZnEv3p2A1mh2DfY82Cb2JgUIzhDuoKv7kHtLsERVKLBIKsgrW%2BZTJjAWF2QGeWu3iuq%2Fr8FGUsaTUQ%3D%3D
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-MEDIA-SEQUENCE:1759565000
+#EXT-X-TARGETDURATION:4
+#EXTINF:4,
+https://tx-zjlizhi.gdtv.cn/live/gdzj-1759565000.ts?txspiseq=106842477557790301701
+#EXTINF:4,
+https://tx-zjlizhi.gdtv.cn/live/gdzj-1759565001.ts?txspiseq=106842477557790301701
+#EXTINF:4,
+https://tx-zjlizhi.gdtv.cn/live/gdzj-1759565002.ts?txspiseq=106842477557790301701
